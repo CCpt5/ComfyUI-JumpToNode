@@ -10,7 +10,7 @@ gives you a node ID and you can't tell where it is on a big workflow.
 
 This was vibecoded with Claude Opus/Fable (Anthropic) iteratively over many sessions while
 I was using it for my own workflows. I'm not a programmer and I'm not going to
-be heavily maintaining this. 
+be heavily maintaining this. That said, I've found it enormously helpful for myself so I hope some others do as well. 
 
 ## What it does
 
