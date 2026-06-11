@@ -1,7 +1,7 @@
 # ComfyUI-JumpToNode
 
 A small frontend extension that adds two things ComfyUI's UI doesn't currently
-have natively: **jump to a node by its numeric ID** (including subgraph paths
+have natively: **jump to the node that just errored, or jump to a node by its numeric ID** (including subgraph paths
 like `82:485`), and **cycle through the most recent nodes the backend has
 errored on**. Designed to save the canvas-zooming time when an error message
 gives you a node ID and you can't tell where it is on a big workflow.
