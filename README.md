@@ -42,7 +42,7 @@ be heavily maintaining this. That said, I've found it enormously helpful for mys
 
 Sidebar panel with search, error history, and settings:
 
-![Sidebar panel](images/sidebar.jpg)
+<img src="images/sidebar.jpg" width="350">
 
 Floating dialog with error cycling, recent errors list in the sidebar:
 
